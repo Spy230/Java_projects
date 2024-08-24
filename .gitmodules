@@ -1,0 +1,39 @@
+[submodule "Vehicle-Info-App"]
+	path = Vehicle-Info-App
+	url = https://github.com/Spy230/Vehicle-Info-App.git
+[submodule "game-board"]
+	path = game-board
+	url = https://github.com/Spy230/game-board.git
+[submodule "card-index-of-books"]
+	path = card-index-of-books
+	url = https://github.com/Spy230/card-index-of-books.git
+[submodule "mathematical-solutions"]
+	path = mathematical-solutions
+	url = https://github.com/Spy230/mathematical-solutions.git
+[submodule "The-Draw-For-Sports-Competitions"]
+	path = The-Draw-For-Sports-Competitions
+	url = https://github.com/Spy230/The-Draw-For-Sports-Competitions.git
+[submodule "DATA-STRUCTURE-ANALYSIS"]
+	path = DATA-STRUCTURE-ANALYSIS
+	url = https://github.com/Spy230/DATA-STRUCTURE-ANALYSIS.git
+[submodule "auto-calculator"]
+	path = auto-calculator
+	url = https://github.com/Spy230/auto-calculator.git
+[submodule "SensorInterfaceManagement"]
+	path = SensorInterfaceManagement
+	url = https://github.com/Spy230/SensorInterfaceManagement.git
+[submodule "TaskUpdateActivity"]
+	path = TaskUpdateActivity
+	url = https://github.com/Spy230/TaskUpdateActivity.git
+[submodule "RecyclerViewDirectory"]
+	path = RecyclerViewDirectory
+	url = https://github.com/Spy230/RecyclerViewDirectory.git
+[submodule "SportCarPartsCalculator"]
+	path = SportCarPartsCalculator
+	url = https://github.com/Spy230/SportCarPartsCalculator.git
+[submodule "kalkulator_ipoteki"]
+	path = kalkulator_ipoteki
+	url = https://github.com/Spy230/kalkulator_ipoteki.git
+[submodule "PushkinPoemAnalysis"]
+	path = PushkinPoemAnalysis
+	url = https://github.com/Spy230/PushkinPoemAnalysis.git
